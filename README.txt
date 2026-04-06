@@ -14,3 +14,4 @@ Use this to generate data samples, alter commands as needed
 ./datagen data2sd0.1.csv 0.1 0.05 -1 0.5 100
 
 These files should already be present in the folder and are to be utilised in google collab.
+Just drag and drop them into the runtime, and run the entire collab.
